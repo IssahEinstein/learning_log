@@ -1,6 +1,3 @@
-# Journaling-App
-an online journal system that lets you keep track of information you’ve learned about particular topics
-
 ## 🧠 Learning Log - Project Specification
 
 **Learning Log** is a web application that allows users to:
